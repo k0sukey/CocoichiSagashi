@@ -1,10 +1,6 @@
 .DS_Store
-*.log
-*.lock
-tmp
-bin
+build.log
 build
-res
-gen
-AndroidManifest.xml
-
+npm-debug.log
+tmp
+.map

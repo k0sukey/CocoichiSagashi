@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="container" backButtonTitle="戻る">
+		<TableView id="table"/>
+	</Window>
+</Alloy>

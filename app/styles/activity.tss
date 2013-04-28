@@ -1,0 +1,4 @@
+'#container': {
+	width: 33,
+	style: Ti.UI.iPhone.ActivityIndicatorStyle.PLAIN
+}

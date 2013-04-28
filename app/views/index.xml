@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="wrapper">
+		<NavigationGroup id="navgroup">
+			<Window id="container" title="CoCo壱探し">
+				<RightNavButton>
+					<Button id="gps"/>
+				</RightNavButton>
+				<View ns="Ti.Map" id="map"/>
+			</Window>
+		</NavigationGroup>
+	</Window>
+</Alloy>

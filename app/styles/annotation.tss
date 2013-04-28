@@ -1,0 +1,3 @@
+'#container': {
+	rightButton: Ti.UI.iPhone.SystemButton.DISCLOSURE
+}

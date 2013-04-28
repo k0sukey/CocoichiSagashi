@@ -1,0 +1,10 @@
+'#container': {
+	backgroundColor: 'f0e0bb',
+	barColor: '#6d2d1c'
+},
+'TableView': {
+	backgroundColor: 'transparent',
+	style: Ti.UI.iPhone.TableViewStyle.GROUPED,
+	selectionStyle: Ti.UI.iPhone.TableViewCellSelectionStyle.NONE,
+	touchEnabled: false
+}

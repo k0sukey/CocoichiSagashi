@@ -1,0 +1,20 @@
+'#container': {
+	backgroundColor: '#fff',
+	barColor: '#6d2d1c'
+},
+'#gps': {
+	image: '/images/location.png',
+	style: Ti.UI.iPhone.SystemButtonStyle.BORDERED
+},
+'#map': {
+	mapType: Ti.Map.STANDARD_TYPE,
+	animate: true,
+	region: {
+		latitude: 35.269964,
+		longitude: 136.83777,
+		latitudeDelta: 0.005,
+		longitudeDelta: 0.005
+	},
+	regionFit: true,
+	userLocation: true
+}
